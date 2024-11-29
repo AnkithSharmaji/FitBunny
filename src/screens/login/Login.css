@@ -1,0 +1,10 @@
+.login-container {
+  width: 100%;
+}
+
+.login-form {
+  width: auto;
+  max-width: 500px;
+  margin: auto;
+  margin-top: 10vh;
+}
